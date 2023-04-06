@@ -2,7 +2,6 @@ import os
 import webbrowser
 import  shutil
 import pathlib
-from wallpaper import set_wallpaper, get_wallpaper
 
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.dispatcher.filters import Text
